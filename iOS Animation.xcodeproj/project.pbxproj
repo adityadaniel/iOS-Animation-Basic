@@ -22,6 +22,7 @@
 		11A72765228CEA2300F749F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11A72768228CEA2300F749F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		11A7276A228CEA2300F749F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11A7278E228DA8E700F749F1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		11A72752228CEA2300F749F1 = {
 			isa = PBXGroup;
 			children = (
+				11A7278E228DA8E700F749F1 /* README.md */,
 				11A7275D228CEA2300F749F1 /* iOS Animation */,
 				11A7275C228CEA2300F749F1 /* Products */,
 			);
